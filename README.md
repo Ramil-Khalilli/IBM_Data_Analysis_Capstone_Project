@@ -23,4 +23,10 @@ The project was conducted in Jupyter Notebook and involved data wrangling, explo
 ## Data Processing Steps and Repository Structure
 1. Data Cleaning: Handling missing values, duplicates, and inconsistent data.  
 2. Exploratory Data Analysis (EDA): Understanding distributions, correlations, and patterns.  
-3. Data Visualization: Creating plots to support insights and findings.   
+3. Data Visualization: Creating plots to support insights and findings.
+
+## Results
+1. The most used programming languages according to the survey are HTML/CSS, Javascript, Typescript.
+2. The most desired programming language to learn is Python
+3. There is a strong correlation between employee's age and their job satisfaction level. Till age 40s and 50s, as age increases, the job satisfaction level also increases but after
+   that age, they are inversely proportional.
